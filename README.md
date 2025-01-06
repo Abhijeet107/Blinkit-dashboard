@@ -2,6 +2,10 @@
 
 This project involves analyzing grocery data to uncover insights, trends, and patterns in consumer behavior. The data includes various details on grocery items, potentially including categories, prices, quantities, and more.
 
+## Dashboard
+![Screenshot 2025-01-06 190556](https://github.com/user-attachments/assets/39810fc1-959a-4189-bba8-a3be50b087ac)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
