@@ -35,7 +35,7 @@ The dataset used in this project is provided in the file `BlinkIT Grocery Data E
    ```bash
    git clone https://github.com/yourusername/blinkit-grocery-analysis.git
    cd blinkit-grocery-analysis
-##Contributing
+## Contributing
 Contributions are welcome! Please submit a pull request with a description of your changes.
 
 
